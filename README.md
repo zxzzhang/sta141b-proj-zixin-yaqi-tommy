@@ -11,3 +11,5 @@
 
 * Walmart_Locations.xlsx: Walmart locations globally
                         from http://i.walmart.com/i/rb/WMT_StarCraft2_Midnight_Opening_Store_Locations.pdf
+                        
+WARNING: Results maybe different from original since .sqlite file was not able to import onto github.

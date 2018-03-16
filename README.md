@@ -1,6 +1,6 @@
 # Project Walmart 
 
-* 
+* Walmart-Copy1.ipynb: Our full analysis of Walmart.com
 
 * CA_shapefiles: shapefiles of the US 
                from https://www.census.gov/geo/maps-data/data/cbf/cbf_counties.html

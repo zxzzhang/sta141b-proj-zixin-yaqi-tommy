@@ -1,5 +1,7 @@
 # Project Walmart 
 
+* Walmart.html: Website version of our full analysis (READ THIS ONE: ONLY INTERACTIVE PLOT WORKS HERE)
+
 * Walmart-Copy1.ipynb: Our full analysis of Walmart.com
 
 * CA_shapefiles: shapefiles of the US 
